@@ -1,4 +1,4 @@
-package com.spuzzolo98;
+package com.spuzzolo98.exercises;
 
 import com.spuzzolo98.exercises.CopyArraySPZ;
 import org.junit.jupiter.api.Test;
