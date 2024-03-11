@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eb5efe8-e435-4b68-bce0-60c1aff56c81" name="Changes" comment="nonhofattonientediche" />
+    <list default="true" id="0eb5efe8-e435-4b68-bce0-60c1aff56c81" name="Changes" comment="prof mi sto mettendo a piangere la prego non mi bocci">
+      <change afterPath="$PROJECT_DIR$/lezions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lezions/src/main/java/com/Spuzzolo98/lezione11032024/Patients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lezions/src/main/java/com/Spuzzolo98/lezione11032024/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lezions/src/main/java/com/Spuzzolo98/lezione11032024/lezione11032024.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +22,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -35,6 +47,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Test.executor": "Run",
+    "Application.com.Spuzzolo98.lezione11032024.Test.executor": "Run",
     "JUnit.BubbleSortSPZTest.executor": "Run",
     "JUnit.copyArraySPZTest.copyArray.executor": "Run",
     "JUnit.copyarrayTest.copyArray.executor": "Run",
@@ -50,7 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/loren/IdeaProjects/letteralmentenonsojava/arrays/src/main/java/com/Spuzzolo98/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/loren/IdeaProjects/letteralmentenonsojava/lezions/src/main/java/com/Spuzzolo98/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -69,7 +83,28 @@
       <recent name="com.Spuzzolo98" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BubbleSortSPZTest">
+  <component name="RunManager" selected="Application.com.Spuzzolo98.lezione11032024.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="lezions" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Spuzzolo98.lezione11032024.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Spuzzolo98.lezione11032024.Test" />
+      <module name="lezions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Spuzzolo98.lezione11032024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BubbleSortSPZTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="arrays" />
       <extension name="coverage">
@@ -103,6 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.Spuzzolo98.lezione11032024.Test" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.BubbleSortSPZTest" />
         <item itemvalue="JUnit.copyArraySPZTest.copyArray" />
       </list>
@@ -112,6 +149,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -123,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709907569231</updated>
-      <workItem from="1709907570342" duration="3243000" />
+      <workItem from="1709907570342" duration="8704000" />
     </task>
     <task id="LOCAL-00001" summary="creato progetto arrays con dentro tutti gli esercizi">
       <option name="closed" value="true" />
@@ -157,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709910080943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="prof mi sto mettendo a piangere la prego non mi bocci">
+      <option name="closed" value="true" />
+      <created>1709910955590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709910955590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +225,8 @@
     <MESSAGE value="refactorato un sacco di robe ma evidentemente intellij se ne frega e dice che è tutto uptodate quindi ok" />
     <MESSAGE value="copiato un altro esercizio dal prof (spero sia l'ultimo perchè volgio cominciare a metterci del mio)" />
     <MESSAGE value="nonhofattonientediche" />
-    <option name="LAST_COMMIT_MESSAGE" value="nonhofattonientediche" />
+    <MESSAGE value="prof mi sto mettendo a piangere la prego non mi bocci" />
+    <option name="LAST_COMMIT_MESSAGE" value="prof mi sto mettendo a piangere la prego non mi bocci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
